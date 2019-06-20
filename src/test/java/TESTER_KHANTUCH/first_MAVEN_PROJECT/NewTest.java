@@ -10,7 +10,7 @@ public class NewTest {
 	public static WebDriver driver=null;
 	
   @Test
-  //test to see if the change will showup in github
+//test to see if the change will showup 
   //@Parameters({"email"})
   public void f() throws InterruptedException {
 	  
