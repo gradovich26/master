@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suit name= "testingfirstMAVENproject">
+<test name= "facebooklogin">
+
+<clases>
+<class name="TESTER_KHANTUCH.first_MAVEN_PROJECT.NewTest"></class>
+
+
+</clases>
+</test>
+</suit>
